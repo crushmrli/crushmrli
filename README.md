@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 |![][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crushmrli&&show_icons=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=crushmrli&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=crushmrli&theme=redical)
